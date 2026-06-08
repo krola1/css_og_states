@@ -1,0 +1,16 @@
+@import "tailwindcss";
+.parent-wrapper{
+    border: solid white;
+    background-color: red;
+}
+.child-wrapper{
+    border: solid blue;
+}
+
+.grand-child-wrapper{
+    border: solid green
+}
+
+.header{
+    color: gray
+}
